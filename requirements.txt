@@ -1,0 +1,4 @@
+pydub==0.25.1
+aiogram==2.12.12
+python-dotenv==0.16.0
+gtts==2.2.2
